@@ -1,0 +1,16 @@
+.one {
+    margin: auto;
+    width: 30px;
+    height: 50px;
+    padding: 60px;
+    background-color: blue;
+}
+
+.i {
+    margin: auto;
+    width: 20px;
+    height: 30px;
+    padding: 60px;
+    background-color: black;
+}
+
